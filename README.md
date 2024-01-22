@@ -9,8 +9,7 @@ Welcome to the Security Awareness Training project! This initiative is focused o
 
 ## Features
 
-- **Training PowerPoint Presentation:** Develop a compelling PowerPoint presentation for security awareness training sessions.
+- **Training PowerPoint Presentation:** Develop a compelling PowerPoint presentation for security awareness training sessions for employees.
 
-- **Supporting Materials:** Create additional supporting materials, such as infographics and videos, to complement the PowerPoint presentation.
 
 
